@@ -2,6 +2,11 @@
 
 Set up Windows Server environment to practice Active Directory management and network configuration.
 
+
+
+# Youtube Video Link
+-  ### [Cloud Azure Active Directory Set UP](https://youtu.be/9QCERCaoIW0)
+
 ## Prerequisites
 
 - VirtualBox installed on host machine
